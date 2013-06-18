@@ -26,6 +26,6 @@ esac
 
 su $NEW_USER
 
-echo "Done. You are now `whoami`"
+echo "Done."
 
 exit 0
